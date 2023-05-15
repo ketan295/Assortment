@@ -24,5 +24,9 @@ main()
         {
             printf("%d,\t", arr[i]);
         }
+        else 
+        {
+            printf(" Negative number not found in the array.");
+        }
     }
 }
